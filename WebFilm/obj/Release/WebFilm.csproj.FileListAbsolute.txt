@@ -1,0 +1,116 @@
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\WebFilm.dll.config
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\WebFilm.dll
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\WebFilm.pdb
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\roslyn\csc.exe
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\roslyn\csc.exe.config
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\roslyn\csc.rsp
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\roslyn\csi.exe
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\roslyn\csi.exe.config
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\roslyn\csi.rsp
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\roslyn\System.Buffers.dll
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\roslyn\System.Memory.dll
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\roslyn\vbc.exe
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\roslyn\vbc.exe.config
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\roslyn\vbc.rsp
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\roslyn\VBCSCompiler.exe
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\Antlr3.Runtime.dll
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\Newtonsoft.Json.dll
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\System.Web.Optimization.dll
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\WebFilm_DAL.dll
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\WebGrease.dll
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\WebFilm_DAL.pdb
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\Antlr3.Runtime.pdb
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\Newtonsoft.Json.xml
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\bin\System.Web.Optimization.xml
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\obj\Release\WebFilm.csproj.AssemblyReference.cache
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\obj\Release\WebFilm.csproj.CoreCompileInputs.cache
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\obj\Release\WebFilm.csproj.CopyComplete
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\obj\Release\WebFilm.dll
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm\obj\Release\WebFilm.pdb
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\WebFilm.dll.config
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\WebFilm.dll
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\WebFilm.pdb
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\roslyn\csc.exe
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\roslyn\csc.exe.config
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\roslyn\csc.rsp
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\roslyn\csi.exe
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\roslyn\csi.exe.config
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\roslyn\csi.rsp
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\roslyn\System.Buffers.dll
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\roslyn\System.Memory.dll
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\roslyn\vbc.exe
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\roslyn\vbc.exe.config
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\roslyn\vbc.rsp
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\roslyn\VBCSCompiler.exe
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\Antlr3.Runtime.dll
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\EntityFramework.dll
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\EntityFramework.SqlServer.dll
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\Newtonsoft.Json.dll
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\System.Web.Optimization.dll
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\WebFilm_DAL.dll
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\WebGrease.dll
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\WebFilm_DAL.pdb
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\Antlr3.Runtime.pdb
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\EntityFramework.xml
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\EntityFramework.SqlServer.xml
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\Newtonsoft.Json.xml
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\bin\System.Web.Optimization.xml
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\obj\Release\WebFilm.csproj.AssemblyReference.cache
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\obj\Release\WebFilm.csproj.CoreCompileInputs.cache
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\obj\Release\WebFilm.csproj.CopyComplete
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\obj\Release\WebFilm.dll
+C:\Users\doant\OneDrive - kikkdt\Desktop\WebFilm\WebFilm\WebFilm\obj\Release\WebFilm.pdb

@@ -1,0 +1,6 @@
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm_DAL\bin\Release\WebFilm_DAL.dll
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm_DAL\bin\Release\WebFilm_DAL.pdb
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm_DAL\obj\Release\WebFilm_DAL.csproj.AssemblyReference.cache
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm_DAL\obj\Release\WebFilm_DAL.csproj.CoreCompileInputs.cache
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm_DAL\obj\Release\WebFilm_DAL.dll
+C:\Users\doant\OneDrive - kikkdt\Projects\1. Do an HK4\LTWeb\WebFilm\WebFilm_DAL\obj\Release\WebFilm_DAL.pdb
